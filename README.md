@@ -1,6 +1,7 @@
 # my-practise-project
 
 > A Vue.js project
+新建的一个vue全家桶 + element ui 学习目录
 
 ## Build Setup
 
